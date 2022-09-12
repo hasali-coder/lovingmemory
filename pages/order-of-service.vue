@@ -7,9 +7,9 @@
       <!-- CONTENT START -->
       <h1 class="title">Eulogy of Mr Aba</h1>
       <p><em>Thursday 15th September 2022</em> Mr Aba has was born and raised in Chakarani, Taita Taveta County in 25th January 2022 by the late Mr Henry & Mrs Mariah Mutinda. They later moved on to Ganze, Kilifi where he attended school, madrassa and highschool, and also met his beloved wife, Christine Muange</p>
-      <p class="highlight">A Bit of important text that you want to stand out, such as any dressing requirements.</p>
+      
       <h1 class="title">School Life</h1>
-      <p>The late attended Mwirima Primary School, in Taita Taveta county then to Ganze Primary school before returning to Mwirima Primary school. He passed his CPE with flying colors the proceeded to Kenyatta Highschool where he did his 'O' levels thereafter proceeding to Equator High School, now Thika High School. <p class="highlight">A Bit of important text that you want to stand out, such as any dressing requirements.</p>
+      <p>The late attended Mwirima Primary School, in Taita Taveta county then to Ganze Primary school before returning to Mwirima Primary school. He passed his CPE with flying colors the proceeded to Kenyatta Highschool where he did his 'O' levels thereafter proceeding to Equator High School, now Thika High School. <p class="highlight">We have lost a man of power, a father, an uncle, a husband and a legacied figure.</p>
       <h2>Church Service <span>10:30am</span></h2>
       <ul class="fa-ul">
         <ListItem>Service starts at 10:30am at Church Address</ListItem>
