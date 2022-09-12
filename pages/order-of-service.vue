@@ -5,8 +5,8 @@
     </div>
     <div class="section details">
       <!-- CONTENT START -->
-      <h1 class="title">Order of service</h1>
-      <p><em>Thursday 28th January 2021</em> Due to COVID-19 the services are restricted in the number of people allowed. The plan is to live stream the services so everyone who wants to attend will be able to do so virtually. We will also hold a celebration of Lyns life later in the year when COVID-19 restrictions are relaxed.</p>
+      <h1 class="title">Eulogy of Mr Aba</h1>
+      <p><em>Thursday 15th September 2022</em> Mr Aba has was born and raised in Chakarani, Taita Taveta County in 25th January 2022 by the late Mr Henry & Mrs Mariah Mutinda. They later moved on to Ganze, Kilifi where he attended school, madrassa and highschool, and also met his beloved wife, Christine Muange</p>
       <p class="highlight">A Bit of important text that you want to stand out, such as any dressing requirements.</p>
       <h2>Church Service <span>10:30am</span></h2>
       <ul class="fa-ul">
