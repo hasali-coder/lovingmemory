@@ -4,7 +4,7 @@ I originally built this as a central place people could go to find out about fun
 * [demo.lovingmemory.link](https://demo.lovingmemory.link)
 * [lynhunt.lovingmemory.link](https://lynhunt.lovingmemory.link)
 
-If you need help getting this set up feel free to reach out on discord - https://discord.gg/XG9vyq3M9N
+If you need help getting this set up feel free to reach out on whatsapp: +254746126579
 
 You can get more information from [https://lovingmemory.link](https://lovingmemory.link)
 
@@ -26,8 +26,6 @@ $ yarn generate
 
 This repository allows you to have a beautiful and simple site that requires no hosting account (it uses Github pages), just a custom domain. It allows you to put details of the funeral arrangements, charity donations links and comes built ready for mobile.
 
-![LovingMemory Desktop animation](https://i.imgur.com/uaUOGdn.gif)
-![LovingMemory Mobile animation](https://i.imgur.com/Eu9WsP2.gif)
 
 ## Building your own
 To build your own, fork this repository, then make changes to:
